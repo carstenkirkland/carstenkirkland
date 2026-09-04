@@ -2,10 +2,9 @@
 
 <h2>Projects:</h2>
 
-- <b> C++ </b>
-  - [Backcountry Ski Route Recommendation System](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Python</b>
-  - [Base Converter & Calculator](https://github.com/carstenkirkland/BaseConverter-andCalculator) 
+- <b> Programming </b>
+  - [Backcountry Ski Route Recommendation System | C++](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Base Converter & Calculator | Python](https://github.com/carstenkirkland/BaseConverter-andCalculator) 
 - <b>Circuits</b>
 - <b>Digital Logic</b>
 - <b>Unrelated</b>
