@@ -1,14 +1,10 @@
-<h1>Hi, I'm Carsten! 👋  <br> My journey as an Electrical Engineer </a> 
+<h1>Hi, I'm Carsten! 👋  <br> Feel free to contact me with questions. </a> 
 
 <h2>Projects:</h2>
 
 - <b> Programming </b>
   - [Backcountry Ski Route Recommendation System | C++](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Base Converter & Calculator | Python](https://github.com/carstenkirkland/BaseConverter-andCalculator) 
-- <b>Circuits</b>
-- <b>Digital Logic</b>
-- <b>Unrelated</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
 <h2> 🤳 Connect with me:</h2>
