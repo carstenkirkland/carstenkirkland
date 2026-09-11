@@ -3,7 +3,7 @@
 <h2>Projects:</h2>
 
 - <b> Programming </b>
-  - [Backcountry Ski Route Recommendation System | C++](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Backcountry Ski Route Recommendation System | C++](https://github.com/carstenkirkland/BackcountrySkiRouteRecommendationSystem/blob/main/README.md)
   - [Base Converter & Calculator | Python](https://github.com/carstenkirkland/BaseConverter-andCalculator) 
 
 
