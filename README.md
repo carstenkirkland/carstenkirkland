@@ -6,6 +6,7 @@
   - [Backcountry Ski Route Recommendation System | C++](https://github.com/carstenkirkland/BackcountrySkiRouteRecommendationSystem)
   - [Base Converter & Calculator | Python](https://github.com/carstenkirkland/BaseConverter-andCalculator) 
 
+- <b> Solidworks </b>
 
 <h2> 🤳 Connect with me:</h2>
 
